@@ -1,5 +1,5 @@
 # Sales Analysis Project With SQL
-In this project, a small dataset is created & is used to perform analysis which is used to solve questions that are related to some real-world business.
+In this project, a small dataset is created & is used to perform analysis which was done on jypyer notebook using python & is used to solve questions that are related to some real-world business.
 
 # About Data
 A Database named **swiggy** is created in this project, like *zomato* consists of *zomato pro members* similarly *swiggy* consists of *swiggy one* which means it's a premium user, so the data in this project is created with reference to swiggy.
